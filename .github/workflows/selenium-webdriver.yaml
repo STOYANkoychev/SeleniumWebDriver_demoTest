@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubunto-latest
+    runs-on: windows-latest
 
     steps:
       - name: Chekout code
